@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '37879'
     url: http://www.gutenberg.org/2009/agents/37879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37088#John-Pettie-R.A.-H.R.S.A.Sixteen-examples-in-colour-of-the-artist-s-work
 gutenberg_issued: '2011-08-14'
 gutenberg_type: Text
 identifiers:
