@@ -1,0 +1,35 @@
+_repo: John-Pettie-R.A.-H.R.S.A.Sixteen-examples-in-colour-of-the-artist-s-work_37088
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pettie, John
+    birthdate: 1839
+    deathdate: 1893
+    gutenberg_agent_id: '38635'
+    url: http://www.gutenberg.org/2009/agents/38635
+covers:
+- cover_type: archival
+  image_path: 37088-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Hardie, Martin
+    birthdate: 1875
+    deathdate: 1952
+    gutenberg_agent_id: '37879'
+    url: http://www.gutenberg.org/2009/agents/37879
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pettie, John, 1839-1893'
+- !lcc 'ND'
+title: 'John Pettie, R.A., H.R.S.A.
+
+  Sixteen examples in colour of the artist''s work'
+url: http://www.gutenberg.org/ebooks/37088
